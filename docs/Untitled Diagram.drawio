@@ -1,0 +1,29 @@
+<mxfile host="app.diagrams.net" modified="2023-05-31T08:32:26.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.6" etag="WGVPxBv01j-Y6WkLDY4A" type="github">
+  <diagram name="Page-1" id="M2GU9s7XtK033lkh8lzO">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Git_branch" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry width="94" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="dev_qa_environment" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="144" width="166" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="CI/CD" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" width="57" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.003407579787234;exitY=0.5;entryX=0.0019295933734939758;entryY=0.5;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0003765060240963;exitY=0.5;entryX=0.0010964912280701754;entryY=0.5;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
